@@ -1,0 +1,6 @@
+*.PcbLib
+*.SchLib
+Docs/
+History/
+Project Logs for PIFWRobot-Board/
+Reference/
